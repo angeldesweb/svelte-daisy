@@ -3,3 +3,8 @@
 
 </script>
 
+<Button primary={true} noAnimate={true} >
+  Test
+</Button>
+
+
